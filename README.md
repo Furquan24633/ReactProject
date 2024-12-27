@@ -1,3 +1,3 @@
 # ReactProject
-This is my first React Project
+This is my first React Project <br>
 Author - Furquan Ahmed
